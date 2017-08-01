@@ -27,13 +27,13 @@
 
 <channel>
 	<title>Travel</title>
-	<link>http:</link>
+	<link>http://loch.dev</link>
 	<description>Avada WP Theme</description>
 	<pubDate>Mon, 03 Jul 2017 08:52:39 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>http://avada.theme-fusion.com/</wp:base_site_url>
-	<wp:base_blog_url>http:</wp:base_blog_url>
+	<wp:base_blog_url>http://loch.dev</wp:base_blog_url>
 
 
 
@@ -41,7 +41,7 @@
 
 	<item>
 		<title>Home</title>
-		<link>http:/slide/home/</link>
+		<link>http://loch.dev/slide/home/</link>
 		<pubDate>Tue, 27 Jan 2015 12:44:20 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/travel/?post_type=slide&#038;p=24</guid>
@@ -179,7 +179,7 @@
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[pyre_button_1]]></wp:meta_key>
-			<wp:meta_value><![CDATA[[fusion_button link="http:/our-destinations/" color="default" size="xlarge" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="0px" shadow="no" icon="" icon_divider="yes" icon_position="left" modal="" animation_type="0" animation_direction="down" animation_speed="0.1" class="" id=""]VIEW ALL DESTINATIONS[/fusion_button]]]></wp:meta_value>
+			<wp:meta_value><![CDATA[[fusion_button link="http://loch.dev/our-destinations/" color="default" size="xlarge" type="" shape="" target="_self" title="" gradient_colors="|" gradient_hover_colors="|" accent_color="" accent_hover_color="" bevel_color="" border_width="0px" shadow="no" icon="" icon_divider="yes" icon_position="left" modal="" animation_type="0" animation_direction="down" animation_speed="0.1" class="" id=""]VIEW ALL DESTINATIONS[/fusion_button]]]></wp:meta_value>
 		</wp:postmeta>
 		<wp:postmeta>
 			<wp:meta_key><![CDATA[pyre_button_2]]></wp:meta_key>
@@ -204,7 +204,7 @@
 	</item>
 	<item>
 		<title>Destinations</title>
-		<link>http:/slide/destinations/</link>
+		<link>http://loch.dev/slide/destinations/</link>
 		<pubDate>Tue, 27 Jan 2015 20:01:03 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/travel/?post_type=slide&#038;p=96</guid>
@@ -367,7 +367,7 @@
 	</item>
 	<item>
 		<title>Reservation</title>
-		<link>http:/slide/reservation/</link>
+		<link>http://loch.dev/slide/reservation/</link>
 		<pubDate>Wed, 28 Jan 2015 13:49:03 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/travel/?post_type=slide&#038;p=152</guid>
@@ -526,7 +526,7 @@
 	</item>
 	<item>
 		<title>About</title>
-		<link>http:/slide/about/</link>
+		<link>http://loch.dev/slide/about/</link>
 		<pubDate>Wed, 28 Jan 2015 19:29:07 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/travel/?post_type=slide&#038;p=192</guid>
@@ -685,7 +685,7 @@
 	</item>
 	<item>
 		<title>Blog</title>
-		<link>http:/slide/blog/</link>
+		<link>http://loch.dev/slide/blog/</link>
 		<pubDate>Fri, 30 Jan 2015 18:38:49 +0000</pubDate>
 		<dc:creator><![CDATA[]]></dc:creator>
 		<guid isPermaLink="false">http://avada.theme-fusion.com_demos/travel/?post_type=slide&#038;p=319</guid>
