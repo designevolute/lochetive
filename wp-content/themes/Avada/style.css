@@ -35,21 +35,36 @@ h1{
     color: #fff;
 }
 
-
+.fusion-header .fusion-row {
+    padding-top: 0;
+    padding-bottom: 0;
+}
 
 .fusion-content-boxes.fusion-columns-1 .fusion-column {
     margin-bottom: 20px !important;
 }
 
 #sliders-container{
-    padding-top: 12%;
-    margin-top: 10px;
+    margin-top: -1%;
+}
+
+.fusion-mobile-menu-design-modern.fusion-header-v5.fusion-logo-center .fusion-logo {
+    float: none;
+}
+
+.fusion-mobile-menu-icons {
+    margin-top: -50px;
 }
 
 
-@media(max-width: 1022px){
+.fusion-mobile-menu-design-modern.fusion-header-v5 .fusion-header {
+    position: relative;
+    z-index: 100;
+}
+
+/*@media(max-width: 1022px){
     #sliders-container{
         padding-top: 0;
         margin-top: -2%;
     }
-}
+}*/
