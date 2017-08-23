@@ -48,6 +48,21 @@ h1{
     margin-top: -1%;
 }
 
+.wheeler-presents{
+    background-color: #031a3e;
+    height: 80px;
+    text-align: center;
+    padding-top: 9px;
+}
+
+.wheeler-presents img{
+    height: 90%;
+}
+
+#side-header .fusion-logo, .fusion-header .fusion-logo {
+    /*margin-top: -15px !important;*/
+}
+
 .fusion-mobile-menu-design-modern.fusion-header-v5.fusion-logo-center .fusion-logo {
     float: none;
 }

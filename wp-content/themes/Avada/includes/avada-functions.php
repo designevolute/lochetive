@@ -1105,6 +1105,9 @@ if ( ! function_exists( 'avada_header_template' ) ) {
 			?>
 
 			<header class="<?php echo esc_attr( $header_wrapper_class ); ?>">
+			<div class="wheeler-presents">
+				<img src="/wp-content/themes/Avada/assets/images/logo-wheeler-presents.png" />
+			</div>
 				<div class="<?php echo esc_attr( 'fusion-header-' . Avada()->settings->get( 'header_layout' ) . ' fusion-logo-' . strtolower( Avada()->settings->get( 'logo_alignment' ) ) . ' fusion-sticky-menu-' . has_nav_menu( 'sticky_navigation' ) . ' fusion-sticky-logo-' . $sticky_header_logo . ' fusion-mobile-logo-' . $mobile_logo . ' fusion-mobile-menu-design-' . strtolower( Avada()->settings->get( 'mobile_menu_design' ) ) . $sticky_header_type2_layout . ' ' . $menu_text_align ); ?>">
 					<?php
 					/**
